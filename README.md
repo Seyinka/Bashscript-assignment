@@ -7,7 +7,7 @@ list of directories: this will be the directories you want to check it's disk us
 eg yourscript.sh -n 5 /var
 should return the top 5 directories wrt disk usage in /var directory
 
-yourscript.sh -a /var
+yourscript.sh -d /var
 should list both directories and files
 
 Note: if -n argument is not given, it should return 8 enteries by default.
