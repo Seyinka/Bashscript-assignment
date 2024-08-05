@@ -18,4 +18,4 @@ the source directory and the destination directory
 
 Note: The backup should be a tar archive
 
-@channel
+
